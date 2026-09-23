@@ -4,7 +4,7 @@ Join us to explore advanced solutions with the developer edition of ArcGIS Exper
 
 **When & where**: Wednesday, 21 Oct | 09:00 - 10:00 CEST | Fantasie 2—Level C3 | Congress Center
 
-[Check the details](https://registration.esri.com/flow/esri/26euroepcdev/deveventportal/page/detailed-agenda/session/1785493533691001yG2g)
+[Check the details](https://registration.esri.com/flow/esri/26euroepcdev/deveventportal/page/detailed-agenda/session/1785484275364001zgPm)
 
 ## Slides and recording
 
