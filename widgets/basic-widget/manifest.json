@@ -1,0 +1,21 @@
+{
+  "name": "basic-widget",
+  "label": "Hello Frankfurt",
+  "type": "widget",
+  "version": "1.21.0",
+  "exbVersion": "1.21.0",
+  "author": "Esri",
+  "description": "This is a basic widget based on the simple widget example that comes with the installation. It includes an example of how to use the config file, and it includes a placeholder SVG icon. It intentionally does not include the following so you can use this to start from scratch: i18n translations, a Settings panel, unit tests. See the documentation for more information on how to implement these features.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "hasSettingPage": true
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 600,
+    "height": 300
+  }
+}
