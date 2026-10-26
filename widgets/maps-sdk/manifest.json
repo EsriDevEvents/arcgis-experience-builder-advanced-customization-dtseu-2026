@@ -1,0 +1,24 @@
+{
+  "name": "maps-sdk",
+  "label": "Explore Map Data",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.21.0",
+  "author": "Esri",
+  "description": "Adds a configured layer of places to eat in Frankfurt to a selected map widget.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "properties": {
+    "hasSettingPage": true
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 320,
+    "height": 600
+  }
+}

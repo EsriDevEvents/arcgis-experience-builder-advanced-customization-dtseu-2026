@@ -1,0 +1,92 @@
+{
+  "pages": {
+    "page_0": {
+      "id": "page_0",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_0"
+      },
+      "isDefault": true,
+      "isVisible": true,
+      "label": "Page"
+    }
+  },
+  "layouts": {
+    "layout_0": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_1",
+          "bbox": {
+            "left": "23.4%",
+            "right": "23.3%",
+            "top": "13.6%",
+            "bottom": "45.9%",
+            "width": "53.3%",
+            "height": "40.4%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            }
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    }
+  },
+  "exbVersion": "1.21.0",
+  "mainSizeMode": "LARGE",
+  "theme": "themes/master/",
+  "forBuilderAttributes": {
+    "lockLayout": false
+  },
+  "template": "blankfullscreen",
+  "widgets": {
+    "widget_1": {
+      "uri": "widgets/basic-widget/",
+      "version": "1.21.0",
+      "label": "Hello Frankfurt",
+      "config": {
+        "exampleText": "Hello Frankfurt"
+      },
+      "id": "widget_1"
+    }
+  },
+  "widgetsManifest": {},
+  "views": {},
+  "sections": {},
+  "dialogs": {},
+  "messageConfigs": {},
+  "attributes": {
+    "portalUrl": "https://EsriUK.maps.arcgis.com"
+  },
+  "timestamp": 1789673083920,
+  "sharedThemeVariables": {
+    "header": {
+      "bg": "#25216b",
+      "color": "#ffffff"
+    },
+    "body": {
+      "link": "#01358b"
+    },
+    "button": {
+      "bg": "#582a78",
+      "color": "#ffffff"
+    }
+  },
+  "mainLocale": "en-gb",
+  "dataSources": {},
+  "pageStructure": [
+    {
+      "page_0": []
+    }
+  ]
+}
