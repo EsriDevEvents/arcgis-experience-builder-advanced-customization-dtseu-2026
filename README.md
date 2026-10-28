@@ -54,7 +54,7 @@ Most of the slides are made available at [Esri Events > Proceedings](https://www
 * [Data actions](https://developers.arcgis.com/experience-builder/guide/core-concepts/data-action/)
 * [Widget state](https://developers.arcgis.com/experience-builder/guide/widget-communication/#21-use-widget-state-to-share-state-between-widgets)
 ### Learn Key Technologies
-* [HTML, CSS, JavaScript](developer.mozilla.org)
-* [TypeScript](typescriptlang.org/docs)
-* [React, JSX](react.dev/learn)
-* [ArcGIS Maps SDK for JavaScript](esriurl.com/js-tutorials)
+* [HTML, CSS, JavaScript](https://developer.mozilla.org)
+* [TypeScript](https://typescriptlang.org/docs)
+* [React, JSX](https://react.dev/learn)
+* [ArcGIS Maps SDK for JavaScript](https://esriurl.com/js-tutorials)
