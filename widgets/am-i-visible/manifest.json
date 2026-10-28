@@ -1,0 +1,18 @@
+{
+  "name": "am-i-visible",
+  "type": "widget",
+  "version": "1.21.0",
+  "exbVersion": "1.21.0",
+  "dependency": ["jimu-arcgis"],
+  "author": "Christine Wiltawsky, Esri Deutschland GmbH",
+  "description": "Shows Widget Lifecycle for different layouts.",
+  "copyright": "",
+  "license": "",
+  "properties": {},
+  "translatedLocales": ["en"],
+  "defaultSize": {
+    "width": 100,
+    "height": 100
+  }
+}
+

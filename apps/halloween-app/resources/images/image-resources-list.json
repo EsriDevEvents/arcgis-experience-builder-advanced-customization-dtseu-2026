@@ -1,0 +1,28 @@
+{
+  "1790853499933": {
+    "originalName": "1040.jpeg",
+    "fileName": "1790853499933.jpeg",
+    "size": 434926,
+    "url": "${appResourceUrl}/images/background_setting/1790853499933.jpeg",
+    "created": 1790853499933,
+    "resourcesPrefix": "images/background_setting",
+    "referredIds": [],
+    "originId": "1790853499933",
+    "fileFormat": "image/jpeg",
+    "originalWidth": 1040,
+    "originalHeight": 585
+  },
+  "1790853592684": {
+    "originalName": "euro-devtech26-banner-lg.jpg",
+    "fileName": "1790853592684.jpg",
+    "size": 188744,
+    "url": "${appResourceUrl}/images/background_setting/1790853592684.jpg",
+    "created": 1790853592684,
+    "resourcesPrefix": "images/background_setting",
+    "referredIds": [],
+    "originId": "1790853592684",
+    "fileFormat": "image/jpeg",
+    "originalWidth": 882,
+    "originalHeight": 702
+  }
+}
